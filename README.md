@@ -17,4 +17,16 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0901-online-stock-span) |
+## Array
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
