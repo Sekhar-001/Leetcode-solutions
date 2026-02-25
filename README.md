@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
@@ -68,6 +69,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 ## String Matching
 |  |
@@ -75,4 +77,8 @@
 | [0459-repeated-substring-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
