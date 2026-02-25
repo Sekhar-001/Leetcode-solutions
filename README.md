@@ -68,6 +68,7 @@
 | [0796-rotate-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
