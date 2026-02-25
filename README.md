@@ -22,6 +22,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0867-transpose-matrix](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 ## Matrix
@@ -59,4 +60,9 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0890-find-and-replace-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
+## Hash Table
+|  |
+| ------- |
+| [0890-find-and-replace-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 <!---LeetCode Topics End-->
