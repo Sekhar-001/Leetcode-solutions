@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0867-transpose-matrix](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 ## Matrix
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
