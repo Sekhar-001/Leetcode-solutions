@@ -47,6 +47,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -60,6 +61,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
