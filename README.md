@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
 | ------- |
