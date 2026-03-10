@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0901-online-stock-span](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
@@ -66,6 +67,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0796-rotate-string) |
