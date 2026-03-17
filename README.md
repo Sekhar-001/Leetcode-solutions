@@ -29,6 +29,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1314-matrix-block-sum](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
@@ -58,10 +59,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## String
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,4 +101,12 @@
 |  |
 | ------- |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
