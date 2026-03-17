@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0239-sliding-window-maximum](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0867-transpose-matrix](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -58,11 +59,13 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## String
@@ -91,6 +94,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Two Pointers
@@ -104,6 +108,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sekhar-001/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
 |  |
